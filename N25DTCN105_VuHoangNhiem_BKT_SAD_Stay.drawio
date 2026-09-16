@@ -41,7 +41,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BGEGYwTvvlCzb4N8dL2t" name="Trang-2">
-    <mxGraphModel dx="1717" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2445" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="ngBskYrg37rBSUyocvSE-47" parent="mxzR3mQ0s6O81Lcrs5ND-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Kiểm tra thời gian trả phòng" vertex="1">
           <mxGeometry height="80" width="90" x="615" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="ngBskYrg37rBSUyocvSE-50" parent="mxzR3mQ0s6O81Lcrs5ND-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="ngBskYrg37rBSUyocvSE-50" parent="mxzR3mQ0s6O81Lcrs5ND-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Xác nhận đặt phòng thành công" vertex="1">
           <mxGeometry height="60" width="120" x="790" y="180" as="geometry" />
         </mxCell>
         <mxCell id="mxzR3mQ0s6O81Lcrs5ND-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Khách hàng" vertex="1">
